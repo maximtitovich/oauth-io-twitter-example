@@ -1,0 +1,15 @@
+{
+  "name": "twitter",
+  "version": "0.0.1",
+  "description": "twitter example",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ./app"
+  },
+  "author": "Maxim Titovich",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
